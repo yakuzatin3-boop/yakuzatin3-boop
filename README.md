@@ -43,7 +43,7 @@ I'm a **Full Stack Developer** who enjoys turning ideas into fast, accessible an
   <tr>
     <td align="center" width="140"><b>🎨 Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,angular&theme=dark" alt="Frontend stack" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,&theme=dark" alt="Frontend stack" />
     </td>
   </tr>
   <tr>
@@ -190,12 +190,12 @@ Track products and stock with an admin dashboard.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yakuzatin3-boop&hide_border=true&background=080018&ring=BC6FF1&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E6E6FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8FBF" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=yakuzatin3-boop&hide_border=true&background=010006&ring=BC6FF1&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E6E6FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8FBF" alt="Contribution streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakuzatin3-boop&bg_color=080018&color=E6E6FA&line=00D4FF&point=FFFFFF&area=true&area_color=3C096C&hide_border=true" alt="Contribution graph" width="98%" />
-</p>
+</p> -->
 
 <br/>
 
