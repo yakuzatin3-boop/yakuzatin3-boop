@@ -1,6 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020010,30:10002B,60:3C096C,100:00D4FF&height=260&section=header&text=Tim%20Vuthin&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Phnom%20Penh%2C%20Cambodia&descSize=18&descAlignY=62&descColor=00D4FF" width="100%" alt="Tim Vuthin header" />
+  <img src="./header.svg" width="100%" alt="Tim Vuthin header" />
+</p>
+
+<p align="center">
+  <img src="./icons.svg" width="100%" alt="Tech stack icons" />
 </p>
 
 <p align="center">
