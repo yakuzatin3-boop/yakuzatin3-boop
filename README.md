@@ -174,28 +174,8 @@ Track products and stock with an admin dashboard.
 
 <br/>
 
-<!-- ═══════════════ ROADMAP ═══════════════ -->
-## 🧭 Currently Exploring
 
-| Technology | Why |
-|---|---|
-| 🐍 **Python & FastAPI** | Fast, modern Python APIs |
-| ☕ **Java & Spring Boot** | Enterprise-grade backend development |
-| 📱 **Flutter** | Cross-platform mobile apps |
 
-<br/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yakuzatin3-boop&show_icons=true&hide_border=true&bg_color=0:080018&title_color=00D4FF&icon_color=BC6FF1&text_color=E6E6FA&ring_color=00D4FF&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakuzatin3-boop&layout=donut-vertical&hide_border=true&bg_color=080018&title_color=00D4FF&text_color=E6E6FA" alt="Top languages" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=yakuzatin3-boop&hide_border=true&background=010006&ring=BC6FF1&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E6E6FA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8FBF" alt="Contribution streak" />
-</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakuzatin3-boop&bg_color=080018&color=E6E6FA&line=00D4FF&point=FFFFFF&area=true&area_color=3C096C&hide_border=true" alt="Contribution graph" width="98%" />
